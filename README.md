@@ -4,13 +4,13 @@ Mobile client for Atlas Tap. Pairs with the Atlas Tap server over your local net
 
 ## Overview
 
-Atlas Tap is a phone-as-remote system built for desktop media control. This is the mobile side — a React Native and Expo app that connects to the server, displays preset controls, and sends keypress commands on button press.
+Atlas Tap is a phone-as-remote system built for desktop media control. This is the mobile side, a React Native and Expo app that connects to the server, displays preset controls, and sends keypress commands on button press.
 
 ## Stack
 
-- **React Native** — mobile UI framework
-- **Expo** — build tooling and runtime
-- **TypeScript** — language
+- **React Native** - mobile UI framework
+- **Expo** - build tooling and runtime
+- **TypeScript** - language
 
 ## How It Works
 
@@ -22,7 +22,7 @@ Atlas Tap is a phone-as-remote system built for desktop media control. This is t
 
 ## Presets
 
-Each preset is tailored to a specific media player and exposes a set of buttons mapped to that app's keybinds — things like captions, skip intro, and playback control. The preset system is modular and straightforward to extend.
+Each preset is tailored to a specific media player and exposes a set of buttons mapped to that app's keybinds, things like captions, skip intro, and playback control. The preset system is modular and straightforward to extend.
 
 ## Security
 
