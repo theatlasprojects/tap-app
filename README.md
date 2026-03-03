@@ -1,4 +1,4 @@
-# atlas-tap-app
+# tap-app
 
 Mobile client for Atlas Tap. Pairs with the Atlas Tap server over your local network and turns your phone into a media remote for your desktop.
 
@@ -30,4 +30,4 @@ Pairing is done by scanning a QR code that contains the server IP and a session 
 
 ## Related
 
-- [atlas-tap-server](https://github.com/theatlasprojects/atlas-tap-server) — the Tauri/Rust desktop server
+- [atlas-tap-server](https://github.com/theatlasprojects/tap-server) — the Tauri/Rust desktop server
