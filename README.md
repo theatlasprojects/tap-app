@@ -30,4 +30,4 @@ Pairing is done by scanning a QR code that contains the server IP and a session 
 
 ## Related
 
-- [atlas-tap-server](https://github.com/theatlasprojects/tap-server) — the Tauri/Rust desktop server
+- [tap-server](https://github.com/theatlasprojects/tap-server) — the Tauri/Rust desktop server
